@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "908066043724",
+    "project_id": "message-e351d"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908066043724:android:9a0cd874c6fced5c",
+        "android_client_info": {
+          "package_name": "com.example.rishabh.message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcVtLGq9WpZL1M9KWI058zsfdB47IIuWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
